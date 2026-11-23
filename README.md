@@ -29,7 +29,7 @@ I believe great developers are made through **consistent learning, hands-on prac
 
 - 💻 **GitHub:** [github.com/krushnakaale](https://github.com/krushnakaale)
 - 💼 **LinkedIn:** [linkedin.com/in/krushnakaale](https://www.linkedin.com/in/krushnakaale/)
-- 📸 **Instagram:** [instagram.com/krushnakaale](https://www.instagram.com/krushna_kaale/)
+- 📸 **Instagram:** [instagram.com/krushna_kaale](https://www.instagram.com/krushna_kaale/)
 
 ---
 
