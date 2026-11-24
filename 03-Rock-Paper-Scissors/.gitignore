@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.buildozer/
+bin/
+build/
+dist/
+.kivy/
+*.spec.bak
+builds/windows/*
+builds/android/*
+!builds/windows/.gitkeep
+!builds/android/.gitkeep
