@@ -8,6 +8,7 @@ A growing collection of 30 beginner-friendly Python projects.
 | 02  | [Number Guessing Game](02-Number-Guessing-Game/) | Source ready |
 | 03  | [Rock Paper Scissors](03-Rock-Paper-Scissors/)   | Source ready |
 | 04  | [Password Generator](04-Password-Generator/)     | Source ready |
+| 05  | [To-Do List](05-To-Do-List/)                     | Source ready |
 
 More projects will be added over time.
 
