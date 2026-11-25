@@ -1,0 +1,11 @@
+.venv*/
+__pycache__/
+.buildozer/
+build/
+dist/
+bin/
+.kivy/
+*.spec.bak
+PasswordGenerator.spec
+*.exe
+*.apk
