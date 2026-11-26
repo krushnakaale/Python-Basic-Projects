@@ -1,0 +1,7 @@
+.venv*/
+__pycache__/
+.buildozer/
+bin/
+dist/
+build/
+*.spec.bak
