@@ -9,6 +9,7 @@ A growing collection of 30 beginner-friendly Python projects.
 | 03  | [Rock Paper Scissors](03-Rock-Paper-Scissors/)   | Source ready |
 | 04  | [Password Generator](04-Password-Generator/)     | Source ready |
 | 05  | [To-Do List](05-To-Do-List/)                     | Source ready |
+| 06  | [Smart Quiz App](06-Smart-Quiz-App/)             | Source ready |
 
 More projects will be added over time.
 
