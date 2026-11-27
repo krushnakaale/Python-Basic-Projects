@@ -10,6 +10,7 @@ A growing collection of 30 beginner-friendly Python projects.
 | 04  | [Password Generator](04-Password-Generator/)     | Source ready |
 | 05  | [To-Do List](05-To-Do-List/)                     | Source ready |
 | 06  | [Smart Quiz App](06-Smart-Quiz-App/)             | Source ready |
+| 07  | [Smart Digital Clock](07-Smart-Digital-Clock/) | Source ready |
 
 More projects will be added over time.
 
