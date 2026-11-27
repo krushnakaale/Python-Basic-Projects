@@ -1,4 +1,6 @@
-# Python Basic Projects
+# Python Basic Projects — Beginner Programming Exercises
+
+Practice Python programming with small games, calculators and utility applications. This growing collection includes seven source-ready projects toward a planned thirty.
 
 A growing collection of 30 beginner-friendly Python projects.
 
