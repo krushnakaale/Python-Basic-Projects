@@ -13,6 +13,9 @@ A growing collection of 30 beginner-friendly Python projects.
 | 05  | [To-Do List](05-To-Do-List/)                     | Source ready |
 | 06  | [Smart Quiz App](06-Smart-Quiz-App/)             | Source ready |
 | 07  | [Smart Digital Clock](07-Smart-Digital-Clock/) | Source ready |
+| 08  | [Smart QR Generator](08-Smart-QR-Generator/) | Source ready |
+
+Project 08 generates QR codes offline and exports them as PNG. [View sample outputs](08-Smart-QR-Generator/#sample-outputs).
 
 More projects will be added over time.
 

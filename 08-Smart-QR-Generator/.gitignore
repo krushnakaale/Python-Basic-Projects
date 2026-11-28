@@ -1,0 +1,9 @@
+.venv*/
+__pycache__/
+.buildozer/
+bin/
+build/
+dist/
+*.spec.tmp
+*.exe
+*.apk
